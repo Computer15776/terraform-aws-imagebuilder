@@ -1,3 +1,6 @@
+## 0.1.3
+* Fix missing iam_assume_role.json file (under policies/iam/)
+
 ## 0.1.2
 * Add example TF
 
